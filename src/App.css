@@ -1,0 +1,31 @@
+.receipt {
+  margin : 10px;
+  border : 1px solid black;
+}
+
+ul {
+  list-style-type: none;
+  display : flex;
+  flex-direction : column;
+}
+
+.receipt-header {
+  text-align : center;
+  border-bottom : 1px solid black;
+  margin : 10px 0px;
+}
+
+.order-prop {
+  color : black;
+}
+
+.order-category {
+  color : blue;
+}
+
+.receipt-list {
+  display : flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
