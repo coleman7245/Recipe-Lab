@@ -1,5 +1,6 @@
 const data = [ 
-	{ 
+	{
+		id : 1, 
 		person: 'Karolin', 
 		order: { 
 			main: 'Burrito', 
@@ -12,7 +13,8 @@ const data = [
 		}, 
 		paid: false 
 	}, 
-	{ 
+	{
+		id : 2, 
 		person: 'Mark', 
 		order: { 
 			main: 'Rice Bowl', 
@@ -25,7 +27,8 @@ const data = [
 		}, 
 		paid: false 
 	}, 
-	{ 
+	{
+		id : 3, 
 		person: 'Matt', 
 		order: { 
 			main: 'Salad Bowl', 
